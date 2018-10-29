@@ -1,0 +1,10 @@
+[package]
+name = "cloud_to_butt"
+version = "0.1.0"
+authors = ["Josh Robson Chase <josh@robsonchase.com>"]
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "0.15.15"
