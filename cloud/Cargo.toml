@@ -1,0 +1,9 @@
+[package]
+name = "cloud"
+version = "0.1.0"
+authors = ["Josh Robson Chase <josh@robsonchase.com>"]
+
+[dependencies]
+cloud_to_butt = { path = "../" }
+syn = "0.15.15"
+proc-macro2 = "0.4.20"
